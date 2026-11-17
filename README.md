@@ -5,3 +5,5 @@
   height="300"
 />
 </a>
+
+- **terraform-aws-modules/terraform-aws-iam** · [FSx Lustre CSI 정책의 ARN 파티션이 고정되는 오류 수정](https://github.com/terraform-aws-modules/terraform-aws-iam/pull/667) `2026.11`
